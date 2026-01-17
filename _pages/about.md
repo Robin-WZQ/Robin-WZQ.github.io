@@ -30,12 +30,27 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 <div class='paper-box-text' markdown="1">
 
 [T2IShield: Defending against backdoors on text-to-image diffusion models](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_7)
+ 
  **Zhongqi Wang**, Jie Zhang, Shiguang Shan, Xilin Chen.
 - The first backdoor defense method for Text-to-image diffusion models.
 - We show the "Assimilation Phenomenon" in the backdoor samples.
 - By analyzing the structural correlation of attention maps, we propose two detection techniques: Frobenius Norm Threshold Truncation and Covariance Discriminant Analysis.
 - Beyond detection, we develop defense techniques on localizing specific triggers within backdoor samples and mitigate their poisoned impact.
 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dysca</div><img src='images/Dysca_ICLR2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs](https://openreview.net/forum?id=bU1JOvdXXK)
+ 
+ Jie Zhang, **Zhongqi Wang**, Mengqi Lei, Zheng Yuan, Bei Yan, Shiguang Shan, Xilin Chen. (First student author)
+- A benchmark that is able to dynamically generate the test data that users need and is easily to scale up to to new subtasks and scenarios.
+- Dysca aims to testing LVLMs’ performance on diverse styles, 4 image scenarios and 3 question types, reporting the 20 perceptual subtasks performance of 26 mainstream LVLMs,
+including GPT-4o and Gemini-1.5-Pro.
+- We demonstrate for the first time that evaluating LVLMs using large-scale synthetic data is valid.
 
 </div>
 </div>
