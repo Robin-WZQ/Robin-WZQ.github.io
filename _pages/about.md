@@ -26,7 +26,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='images/ECCV24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='images/ECCV24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [T2IShield: Defending against backdoors on text-to-image diffusion models](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_7)
