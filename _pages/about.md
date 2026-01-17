@@ -25,18 +25,15 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - _2024.06_: &nbsp; 🎉🎉: One paper is accepted by ECCV 2024.
 
 # 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='images/ECCV24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DAA_TPAMI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[T2IShield: Defending against backdoors on text-to-image diffusion models](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_7)
+[Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models](https://ieeexplore.ieee.org/document/11300728)
  
- **Zhongqi Wang**, Jie Zhang, Shiguang Shan, Xilin Chen.
-- The first backdoor defense method for Text-to-image diffusion models.
-- We show the "Assimilation Phenomenon" in the backdoor samples.
-- By analyzing the structural correlation of attention maps, we propose two detection techniques: Frobenius Norm Threshold Truncation and Covariance Discriminant Analysis.
-- Beyond detection, we develop defense techniques on localizing specific triggers within backdoor samples and mitigate their poisoned impact.
-
+  **Zhongqi Wang**, Jie Zhang, Shiguang Shan, Xilin Chen.
+- We propose a novel backdoor detection method based on Dynamic Attention Analysis (DAA), which sheds light on dynamic anomalies of cross-attention maps in backdoor samples.
+- We introduce two progressive methods, *i.e.*, DAA-I and DAA-S, to extract features and quantify dynamic anomalies. 
+- Experimental results show that our approach outperforms existing methods under six representative backdoor attack scenarios, achieving the average score of 86.27% AUC.
 
 </div>
 </div>
@@ -55,19 +52,20 @@ including GPT-4o and Gemini-1.5-Pro.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DAA_TPAMI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='images/ECCV24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models](https://ieeexplore.ieee.org/document/11300728)
+[T2IShield: Defending against backdoors on text-to-image diffusion models](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_7)
  
-  **Zhongqi Wang**, Jie Zhang, Shiguang Shan, Xilin Chen.
-- We propose a novel backdoor detection method based on Dynamic Attention Analysis (DAA), which sheds light on dynamic anomalies of cross-attention maps in backdoor samples.
-- We introduce two progressive methods, *i.e.*, DAA-I and DAA-S, to extract features and quantify dynamic anomalies. 
-- Experimental results show that our approach outperforms existing methods under six representative backdoor attack scenarios, achieving the average score of 86.27% AUC.
+ **Zhongqi Wang**, Jie Zhang, Shiguang Shan, Xilin Chen.
+- The first backdoor defense method for Text-to-image diffusion models.
+- We show the "Assimilation Phenomenon" in the backdoor samples.
+- By analyzing the structural correlation of attention maps, we propose two detection techniques: Frobenius Norm Threshold Truncation and Covariance Discriminant Analysis.
+- Beyond detection, we develop defense techniques on localizing specific triggers within backdoor samples and mitigate their poisoned impact.
+
 
 </div>
 </div>
-
 
 # 📖 Preprints
 
