@@ -69,10 +69,6 @@ including GPT-4o and Gemini-1.5-Pro.
 </div>
 </div>
 
-# 📖 Preprints
-
-
-
 # 🏅 Honors and Awards
 
 - _2025_ National Scholarship for Master Students
