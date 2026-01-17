@@ -89,9 +89,5 @@ including GPT-4o and Gemini-1.5-Pro.
   - BS in Artificial Intellgence
   - Tutor: Professor Ying Fu
 
-<!-- # 💬 Invited Talks
-- *2025.04*,  -->
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
+# ✒️ Academic Services
+Invited journal reviewer for IEEE TIFS
