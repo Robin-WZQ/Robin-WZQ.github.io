@@ -41,7 +41,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dysca</div><img src='images/Dysca_ICLR2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/Dysca_ICLR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs](https://openreview.net/forum?id=bU1JOvdXXK)
@@ -51,6 +51,19 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - Dysca aims to testing LVLMs’ performance on diverse styles, 4 image scenarios and 3 question types, reporting the 20 perceptual subtasks performance of 26 mainstream LVLMs,
 including GPT-4o and Gemini-1.5-Pro.
 - We demonstrate for the first time that evaluating LVLMs using large-scale synthetic data is valid.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DAA_TPAMI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models](https://ieeexplore.ieee.org/document/11300728)
+ 
+  **Zhongqi Wang**, Jie Zhang, Shiguang Shan, Xilin Chen.
+- We propose a novel backdoor detection method based on Dynamic Attention Analysis (DAA), which sheds light on dynamic anomalies of cross-attention maps in backdoor samples.
+- We introduce two progressive methods, i.e., DAA-I and DAA-S, to extract features and quantify dynamic anomalies. 
+- Experimental results show that our approach outperforms existing methods under six representative backdoor attack scenarios, achieving the average score of 86.27% AUC.
 
 </div>
 </div>
