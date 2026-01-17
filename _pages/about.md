@@ -46,7 +46,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 
 [Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs](https://openreview.net/forum?id=bU1JOvdXXK)
  
- Jie Zhang, **Zhongqi Wang**, Mengqi Lei, Zheng Yuan, Bei Yan, Shiguang Shan, Xilin Chen. (First student author)
+ Jie Zhang, **Zhongqi Wang**, Mengqi Lei, Zheng Yuan, Bei Yan, Shiguang Shan, Xilin Chen. (Student first author)
 - A benchmark that is able to dynamically generate the test data that users need and is easily to scale up to to new subtasks and scenarios.
 - Dysca aims to testing LVLMs’ performance on diverse styles, 4 image scenarios and 3 question types, reporting the 20 perceptual subtasks performance of 26 mainstream LVLMs,
 including GPT-4o and Gemini-1.5-Pro.
