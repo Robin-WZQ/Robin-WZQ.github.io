@@ -76,9 +76,9 @@ including GPT-4o and Gemini-1.5-Pro.
 # 🏅 Honors and Awards
 
 - _2025_ National Scholarship for Master Students
+- _2025_ Institute of Computing Technology 3A Student.
 - _2024_ Huawei PhD Scholarship.
 - _2024_ Institute of Computing Technology 3A Student.
-- _2023_ Institute of Computing Technology 3A Student.
   
 # 📖 Educations
 
@@ -90,4 +90,4 @@ including GPT-4o and Gemini-1.5-Pro.
   - Tutor: Professor Ying Fu
 
 # ✒️ Academic Services
-Invited journal reviewer for IEEE TIFS
+Invited journal reviewer for IEEE TIFS.
