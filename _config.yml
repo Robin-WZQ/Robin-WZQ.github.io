@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kaike Zhang (张凯科)"
+title                    : "Zhongqi Wang (王中琦)"
 description              : "CAS Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences"
-repository               : "Kaike-Zhang/Kaike-Zhang.github.io"
+repository               : "Robin-WZQ/Robin-WZQ.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kaike Zhang (张凯科)"
+  name             : "Zhongqi Wang (王中琦)"
   avatar           : "images/kaikezhang-512x512.png"
   bio              : "PhD Student"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YzBCxQ0AAAAJ"
-  email            : "kaikezhang99@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Gi1brbgAAAAJ&hl=en"
+  email            : "wangzhongqi23s@ict.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Kaike-Zhang"
+  github           : "Robin-WZQ"
   google_plus      :
   keybase          :
   instagram        :
