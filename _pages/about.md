@@ -62,7 +62,7 @@ including GPT-4o and Gemini-1.5-Pro.
  
   **Zhongqi Wang**, Jie Zhang, Shiguang Shan, Xilin Chen.
 - We propose a novel backdoor detection method based on Dynamic Attention Analysis (DAA), which sheds light on dynamic anomalies of cross-attention maps in backdoor samples.
-- We introduce two progressive methods, i.e., DAA-I and DAA-S, to extract features and quantify dynamic anomalies. 
+- We introduce two progressive methods, *i.e.*, DAA-I and DAA-S, to extract features and quantify dynamic anomalies. 
 - Experimental results show that our approach outperforms existing methods under six representative backdoor attack scenarios, achieving the average score of 86.27% AUC.
 
 </div>
