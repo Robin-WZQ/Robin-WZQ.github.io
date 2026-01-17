@@ -11,6 +11,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About me <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
+
 Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD candidate with the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). Now I am under the supervision of Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan) and work closely with Prof. [Jie Zhang](https://vipl.ict.ac.cn/people/jzhang/) and Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/xlchen/). My research interests cover computer vision, pattern recognition, machine learning, particularly include backdoor attacks and defenses, model evaluation, AI safety and trustworthiness. 
 
 # 🔥 News
