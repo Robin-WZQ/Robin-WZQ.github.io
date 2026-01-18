@@ -78,7 +78,6 @@ including GPT-4o and Gemini-1.5-Pro.
  **Zhongqi Wang**, Jie Zhang, Zhilong Ji, Jinfeng Bai, Shiguang Shan.
 - The work is for Chinese landscape painting generation.
 - Our approach outperforms the state-of-the-art methods in terms of both artfully-composed, artistic conception and Turing test.
-- By analyzing the structural correlation of attention maps, we propose two detection techniques: Frobenius Norm Threshold Truncation and Covariance Discriminant Analysis.
 - We built a new dataset named CLAP for text-conditional Chinese landscape generation.
 
 </div>
