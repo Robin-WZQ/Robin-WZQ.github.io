@@ -16,7 +16,7 @@ redirect_from:
 Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD candidate with the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). Now I am under the supervision of Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan) and work closely with Prof. [Jie Zhang](https://vipl.ict.ac.cn/people/jzhang/) and Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/xlchen/). My research interests cover computer vision, pattern recognition, machine learning, particularly include backdoor attacks and defenses, model evaluation, AI safety and trustworthiness. 
 
 # 🔥 News
-- _2025.11_: &nbsp; 🎉🎉: One paper on backdoor detection is accepted by IEEE TPAMI.
+- _2025.11_: &nbsp; 🎉🎉🎉: One paper on backdoor detection is accepted by IEEE TPAMI.
 
 - _2025.10_: &nbsp; I was awarded the National Scholarship for Master Students.
 
@@ -25,6 +25,8 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - _2024.12_: &nbsp; I received the Huawei PhD Scholarship in 2024.
 
 - _2024.06_: &nbsp; 🎉🎉: One paper on backdoor defense is accepted by ECCV 2024.
+
+- _2023.04_: &nbsp; 🎉: One paper on image generation is accepted by ICME 2023 (Oral).
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DAA_TPAMI2025.png' alt="sym" width="100%"></div></div>
@@ -65,6 +67,19 @@ including GPT-4o and Gemini-1.5-Pro.
 - By analyzing the structural correlation of attention maps, we propose two detection techniques: Frobenius Norm Threshold Truncation and Covariance Discriminant Analysis.
 - Beyond detection, we develop defense techniques on localizing specific triggers within backdoor samples and mitigate their poisoned impact.
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/CCLAP_ICME23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model](https://ieeexplore.ieee.org/document/10219843?denied=)
+ 
+ **Zhongqi Wang**, Jie Zhang, Zhilong Ji, Jinfeng Bai, Shiguang Shan.
+- The work is for Chinese landscape painting generation.
+- Our approach outperforms the state-of-the-art methods in terms of both artfully-composed, artistic conception and Turing test.
+- By analyzing the structural correlation of attention maps, we propose two detection techniques: Frobenius Norm Threshold Truncation and Covariance Discriminant Analysis.
+- We built a new dataset named CLAP for text-conditional Chinese landscape generation.
 
 </div>
 </div>
