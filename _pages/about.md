@@ -69,6 +69,21 @@ including GPT-4o and Gemini-1.5-Pro.
 </div>
 </div>
 
+# Preprint
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Techrxiv</div><img src='images/Arxiv_Survey_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Backdoor Attacks and Defenses on Large Multimodal Models: A Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176618816.64264497)
+ 
+ **Zhongqi Wang**, Jie Zhang, Kexin Bao, Yifei Liang, Shiguang Shan, Xilin Chen.
+- Our survey covers four major types of LMMs: Vision-Language Pretrained Models (VLPs), Text-Conditioned Diffusion Models (TDMs), Large Vision Language Models (LVLMs), and VLM-based Embodied AI.
+- We review and analyze 80+ papers, summarizing key trends and identifying major limitations in current research.
+- We highlight key trends and open problems in current research.
+
+</div>
+</div>
+
 # 🏅 Honors and Awards
 
 - _2025_ National Scholarship for Master Students
