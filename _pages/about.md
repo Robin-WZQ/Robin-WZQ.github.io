@@ -98,6 +98,20 @@ including GPT-4o and Gemini-1.5-Pro.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/AMDET_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models](https://arxiv.org/abs/2512.00343)
+ 
+ **Zhongqi Wang**, Jie Zhang, Kexin Bao, Yifei Liang, Shiguang Shan, Xilin Chen.
+- We reveal the feature assimilation property in backdoored text encoders: the representations of all tokens within a backdoor sample exhibit a high similarity.
+- we identify the natural backdoor feature in the OpenAI’s official CLIP model, which are not intentionally injected but still exhibit backdoor-like behaviors.
+- Extensive experiments on 3,600 backdoored and benign-finetuned models with two attack paradigms and three VLP model structures show that AMDET detects backdoors with an F1 score of 89.90%.
+
+</div>
+</div>
+
+
 # 🏅 Honors and Awards
 
 - _2025_ National Scholarship for Master Students
