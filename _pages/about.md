@@ -128,7 +128,7 @@ including GPT-4o and Gemini-1.5-Pro.
 
 # 🏅 Honors and Awards
 
-- _2025_ National Scholarship for Master Students
+- _2025_ National Scholarship for Master Students.
 - _2025_ Merit Student for the University of Chinese Academy of Sciences.
 - _2024_ Huawei PhD Scholarship.
 - _2024_ Outstanding Student Scholarship (Grade 1) for the Institute of Computing Technology.
