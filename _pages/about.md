@@ -23,7 +23,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 
 - _2025.02_: &nbsp; 🎉🎉: One paper on model evaluation is accepted by ICLR 2025.
 
-- _2024.12_: &nbsp; I received the Huawei PhD Scholarship in 2024.
+- _2024.12_: &nbsp; I received the Huawei Master Scholarship in 2024.
 
 - _2024.06_: &nbsp; 🎉🎉: One paper on backdoor defense is accepted by ECCV 2024.
 
@@ -130,7 +130,7 @@ including GPT-4o and Gemini-1.5-Pro.
 
 - _2025_ National Scholarship for Master Students.
 - _2025_ Merit Student for the University of Chinese Academy of Sciences.
-- _2024_ Huawei PhD Scholarship.
+- _2024_ Huawei Master Scholarship.
 - _2024_ Outstanding Student Scholarship (Grade 1) for the Institute of Computing Technology.
 - _2024_ Merit Student for the University of Chinese Academy of Sciences.
   
