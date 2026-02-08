@@ -84,7 +84,20 @@ including GPT-4o and Gemini-1.5-Pro.
 </div>
 </div>
 
-# Preprint
+# Under Review
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS (Major)</div><img src='images/TwT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models](https://arxiv.org/html/2503.17724v2)
+ 
+ Jie Zhang, **Zhongqi Wang**, Shiguang Shan, Xilin Chen. (Student first author)
+- It leverages dual-modal features to jointly optimize the injection, significantly improving stealthiness while maintaining high attack success rate.
+- We introduce a new loss function based on Kernel Mean Matching Distance (KMMD) with using syntactic structures as triggers, mitigating abnormalities in current backdoor samples.
+- It successfully evades detection in over 98% of cases on three state-of-the-art backdoor detection methods.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Techrxiv</div><img src='images/Arxiv_Survey_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
