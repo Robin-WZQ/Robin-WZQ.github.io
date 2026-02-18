@@ -17,6 +17,8 @@ redirect_from:
 Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD candidate with the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). Now I am under the supervision of Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan) and work closely with Prof. [Jie Zhang](https://vipl.ict.ac.cn/people/jzhang/) and Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/xlchen/). My research interests cover computer vision, pattern recognition, machine learning, particularly include backdoor attacks and defenses, model evaluation, AI safety and trustworthiness. 
 
 # 🔥 News
+- _2026_02_: &nbsp; 🥇: Get the first place in Anti-BAD Challenge of SaTML 2026.
+
 - _2025.11_: &nbsp; 🎉🎉🎉: One paper on backdoor detection is accepted by IEEE TPAMI.
 
 - _2025.10_: &nbsp; I was awarded the National Scholarship for Master Students.
@@ -26,8 +28,6 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - _2024.12_: &nbsp; I received the Huawei Master Scholarship in 2024.
 
 - _2024.06_: &nbsp; 🎉🎉: One paper on backdoor defense is accepted by ECCV 2024.
-
-- _2023.04_: &nbsp; 🎉: One paper on image generation is accepted by ICME 2023 (Oral).
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DAA_TPAMI2025.png' alt="sym" width="100%"></div></div>
@@ -128,6 +128,7 @@ including GPT-4o and Gemini-1.5-Pro.
 
 # 🏅 Honors and Awards
 
+- _2026_ Championship Award in IEEE SaTML Anti-BAD Challenge.
 - _2025_ National Scholarship for Master Students.
 - _2025_ Merit Student for the University of Chinese Academy of Sciences.
 - _2024_ Huawei Master Scholarship.
