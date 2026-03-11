@@ -145,4 +145,4 @@ including GPT-4o and Gemini-1.5-Pro.
   - Tutor: Professor Ying Fu
 
 # ✒️ Academic Services
-Invited journal reviewer for IEEE TIFS.
+Invited journal reviewer for IEEE TIFS, IJCV.
