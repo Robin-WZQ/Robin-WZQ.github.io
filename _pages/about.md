@@ -17,6 +17,8 @@ redirect_from:
 Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD candidate with the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), where I’m affiliated with the [Visual Information Processing and Learning (VIPL)](http://vipl.ict.ac.cn/en/index.html) research group. I’m also a student of the [State Key Laboratory of AI Safety](https://klais.ict.ac.cn). I’m honored to conduct my research under the supervision of Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan) and work closely with Prof. [Jie Zhang](https://vipl.ict.ac.cn/people/jzhang/) and Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/xlchen/). My research interests cover computer vision, pattern recognition, machine learning, particularly include backdoor attacks and defenses, model evaluation, AI safety and trustworthiness. 
 
 # 🔥 News
+- _2025.02_: &nbsp; 🎉🎉: One paper on backdoor attack is accepted by IEEE TIFS.
+
 - _2026.02_: &nbsp; 🥇: Get the first place in Anti-BAD Challenge of SaTML 2026.
 
 - _2025.11_: &nbsp; 🎉🎉🎉: One paper on backdoor detection is accepted by IEEE TPAMI.
