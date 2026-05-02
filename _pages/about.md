@@ -149,4 +149,9 @@ including GPT-4o and Gemini-1.5-Pro.
   - Tutor: Professor Ying Fu
 
 # ✒️ Academic Services
-Invited journal reviewer for IEEE TIFS, IJCV, TDCS.
+Invited reviewer for:
+
+- Journal
+  - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - International Journal of Computer Vision (IJCV)
