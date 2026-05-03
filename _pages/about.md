@@ -17,7 +17,6 @@ redirect_from:
 Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD candidate with the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), where I’m affiliated with the [Visual Information Processing and Learning (VIPL)](http://vipl.ict.ac.cn/en/index.html) research group. I’m also a student of the [State Key Laboratory of AI Safety](https://klais.ict.ac.cn). I’m honored to conduct my research under the supervision of Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan) and work closely with Prof. [Jie Zhang](https://vipl.ict.ac.cn/people/jzhang/) and Prof. [Xilin Chen](https://vipl.ict.ac.cn/people/xlchen/). My research interests cover computer vision, pattern recognition, machine learning, particularly include backdoor attacks and defenses, model evaluation, AI safety and trustworthiness. 
 
 # 🔥 News
-- _2026.04_: &nbsp; 🎉🎉: One paper on backdoor attack is accepted by IEEE TIFS.
 
 - _2026.02_: &nbsp; 🥇: Get the first place in Anti-BAD Challenge of SaTML 2026.
 
@@ -32,7 +31,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - _2024.06_: &nbsp; 🎉🎉: One paper on backdoor defense is accepted by ECCV 2024.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/TwT.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/TwT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models](https://arxiv.org/html/2503.17724v2)
@@ -43,7 +42,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - It successfully evades detection in over 98% of cases on three state-of-the-art backdoor detection methods.
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DAA_TPAMI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
