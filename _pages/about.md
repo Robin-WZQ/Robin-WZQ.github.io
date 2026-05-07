@@ -18,6 +18,8 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 
 # 🔥 News
 
+- _2026.05_: &nbsp; 🎉🎉🎉: One paper on stealthy backdoor attack is accepted by IEEE TIFS.
+
 - _2026.02_: &nbsp; 🥇: Get the first place in Anti-BAD Challenge of SaTML 2026.
 
 - _2025.11_: &nbsp; 🎉🎉🎉: One paper on backdoor detection is accepted by IEEE TPAMI.
@@ -31,7 +33,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - _2024.06_: &nbsp; 🎉🎉: One paper on backdoor defense is accepted by ECCV 2024.
 
 # 📝 Publications
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/TwT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/TwT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models](https://arxiv.org/html/2503.17724v2)
@@ -42,7 +44,7 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 - It successfully evades detection in over 98% of cases on three state-of-the-art backdoor detection methods.
 
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DAA_TPAMI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
