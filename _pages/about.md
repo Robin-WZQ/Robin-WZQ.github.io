@@ -133,6 +133,7 @@ including GPT-4o and Gemini-1.5-Pro.
 
 # 🏅 Honors and Awards
 
+- _2026_ Outstanding Merit Student for the University of Chinese Academy of Sciences.
 - _2026_ Championship Award in IEEE SaTML Anti-BAD Challenge.
 - _2025_ National Scholarship for Master Students.
 - _2025_ Merit Student for the University of Chinese Academy of Sciences.
