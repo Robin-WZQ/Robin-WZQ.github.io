@@ -150,6 +150,10 @@ including GPT-4o and Gemini-1.5-Pro.
   - BS in Artificial Intellgence
   - Tutor: Professor Ying Fu
 
+# 🎤 Talks and Competitions
+
+- _2026.07_ Holding a competition on model-level backdoor scanning and target recovery. [[website](https://www.codabench.org/competitions/17511/#/results-tab)]
+
 # ✒️ Academic Services
 Invited reviewer for:
 
