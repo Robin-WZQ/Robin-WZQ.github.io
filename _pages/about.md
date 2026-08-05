@@ -18,6 +18,8 @@ Hi! Welcome to my homepage. I’m **Zhongqi Wang (王中琦)**, a Third-year PhD
 
 # 🔥 News
 
+- _2026.07_: &nbsp; Holding a competition on model-level backdoor scanning and target recovery. [[website](https://www.codabench.org/competitions/17511/#/results-tab)]
+
 - _2026.05_: &nbsp; 🎉🎉🎉: One paper on stealthy backdoor attack is accepted by IEEE TIFS.
 
 - _2026.02_: &nbsp; 🥇: Get the first place in Anti-BAD Challenge of SaTML 2026.
@@ -150,9 +152,9 @@ including GPT-4o and Gemini-1.5-Pro.
   - BS in Artificial Intellgence
   - Tutor: Professor Ying Fu
 
-# 🎤 Talks and Competitions
+# 🎤 Invited Talks
 
-- _2026.07_ Holding a competition on model-level backdoor scanning and target recovery. [[website](https://www.codabench.org/competitions/17511/#/results-tab)]
+- _2026.08_ Give a talk at the PhD Student Forum of the CSIG Young Scientists Conference 2026. [[website](https://mp.weixin.qq.com/s/rYb75-DfhnFnQg5dwa8-aQ)] [ppt](https://github.com/Robin-WZQ/Robin-WZQ.github.io/blob/main/_data/%E7%8E%8B%E4%B8%AD%E7%90%A6-%E7%94%9F%E6%88%90%E5%BC%8F%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%8E%E9%97%A8%E6%94%BB%E5%87%BB%E4%B8%8E%E9%98%B2%E5%BE%A1_CSIG-202608.pdf)
 
 # ✒️ Academic Services
 Invited reviewer for:
